@@ -1,3 +1,8 @@
+<strong><p>todos os os meus projetos começam com a descrição em português, um pouco mais em baixo já vem a descrição em inglês.</p>
+<p>all my projects start with the description in portuguese, a little further down the description in english.</p></strong>
+<hr>
+
+
 # Pagina-de-receita
 Página de receita (Recipt page)
 Página de receita feita para praticar HTML e CSS, um desafio proposto enquanto estudava na <strong>Rocketseat</strong>, 
